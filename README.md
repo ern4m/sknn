@@ -25,7 +25,7 @@ source ./venv/bin/activate
 Once in the virtual enviroment install the project requirements:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Now just run the main.py file:
 
